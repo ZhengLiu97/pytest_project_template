@@ -63,7 +63,7 @@ class Subject:
         print('subject')    
 
 
-code/run.py
+# code/run.py
 from src.subject import Subject  
 ```
 This code won't fail in PyCharm, for PyCharm automatically adds the root directory path of the project to you `PYTHONPATH`, which you can print those via this code:  
